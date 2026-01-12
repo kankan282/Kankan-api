@@ -1,0 +1,30 @@
+{
+  "name": "wingo-prediction-api",
+  "version": "1.0.0",
+  "description": "High-performance WinGo 1M lottery prediction API with 100+ AI ensemble models",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "lottery",
+    "prediction",
+    "ai",
+    "wingo",
+    "ensemble",
+    "machine-learning"
+  ],
+  "author": "Senior Backend Developer & AI Specialist",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
